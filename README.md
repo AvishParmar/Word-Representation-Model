@@ -1,4 +1,4 @@
-# Spring 2022 CSE 354 - Natural Language Processing Assignment 1
+# Skip Gram Model Implementation
 
 This file is best viewed in a Markdown reader (eg. https://jbt.github.io/markdown-editor/)
 
